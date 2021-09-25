@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/Agate Studi Independent/BuildAgate/Match-Three.exe
+D:/Agate Studi Independent/BuildAgate/Build disini/Match-Three.exe
 SceneListBegin?
 Assets/Scenes/MatchThree.unity
 SceneListEnd?
